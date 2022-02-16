@@ -1,0 +1,46 @@
+{
+    "products":[
+        {
+            "_id":"dress1",
+            "img":"https://img.lovepik.com/element/40049/7681.png_860.png",
+            "title":"Leno dress",
+            "availableSize":["X", "XL", "XXL"],
+            "price":37
+        },
+        {
+            "_id":"dress2",
+            "img":"https://img.favpng.com/4/14/0/children-s-clothing-fashion-party-dress-png-favpng-9hJVcLVEYY35CM4LDiDxzV6tc.jpg",
+            "title":"Addidas nice dress",
+            "availableSize":["X", "XL", "XXL"],
+            "price":54
+        },
+        {
+            "_id":"dress3",
+            "img":"https://cdn.statically.io/img/kreditings.com/wp-content/uploads/2021/06/Indian-Beautiful-Girls-Jannat-Zubair-Png-Hd-Images.png?quality=100&f=auto",
+            "title":"Addidas slim dress",
+            "availableSize":["X", "XL", "XXL"],
+            "price":58
+        },
+        {
+            "_id":"dress4",
+            "img":"https://img.favpng.com/11/2/19/children-s-clothing-formal-wear-dress-png-favpng-HdY6xTUwaPnbjC7E6CKbPYjrv.jpg",
+            "title":"Nike nice dress",
+            "availableSize":["X", "XL", "M"],
+            "price":34
+        },
+        {
+            "_id":"dress5",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsSZyoGwUBnQL-ugQJWAkB4rLdeQySuF0YKQ&usqp=CAU",
+            "title":"Nike slim dress",
+            "availableSize":["X", "M", "XXL"],
+            "price":88
+        },
+        {
+            "_id":"dress6",
+            "img":"https://toppng.com/uploads/preview/happy-person-11545688398rslqmyfw4g.png",
+            "title":"Addidas dress",
+            "availableSize":["M", "XL", "XXL"],
+            "price":90
+        }
+    ]
+}

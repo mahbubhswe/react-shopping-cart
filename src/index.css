@@ -1,0 +1,93 @@
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+body,
+#root {
+  height: 100vh;
+  margin: 0px;
+}
+.header {
+  height: 90px;
+  line-height: 90px;
+  background-color: goldenrod;
+  padding: 0px 10px;
+  display: flex;
+}
+.logo {
+  font-size: 21px;
+}
+
+footer {
+  display: grid;
+  place-content: center;
+  background-color: burlywood;
+  font-size: 19px;
+}
+.content {
+  display: flex;
+  padding: 20px;
+}
+.main {
+  flex: 75%;
+}
+.sidebar {
+  flex: 25%;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+.product {
+  height: 350px;
+  width: 250px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin: 5px;
+}
+.title {
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+.cartButtom {
+  display: flex;
+}
+.price {
+  width: 50%;
+  font-size: 19px;
+  display: grid;
+  place-content: center;
+}
+.title {
+  padding: 2px;
+}
+.filter {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+
+.filterSection {
+  flex: 33%;
+  font-size: medium;
+  display: grid;
+  place-content: center;
+  border-bottom: 1px solid #ccc;
+}
+
+.cart {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 5px;
+  background-color: bisque;
+}
+.btn {
+  margin: 5px;
+  padding: 3px;
+}
